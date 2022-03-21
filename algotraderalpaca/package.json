@@ -1,0 +1,19 @@
+{
+  "name": "algotraderalpaca",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/GoldenMarquice/algotradingalpaca.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GoldenMarquice/algotradingalpaca/issues"
+  },
+  "homepage": "https://github.com/GoldenMarquice/algotradingalpaca#readme"
+}
